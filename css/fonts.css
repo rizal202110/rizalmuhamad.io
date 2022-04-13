@@ -1,0 +1,21 @@
+
+/* font-family: "FuturaRegular"; */
+@font-face {
+    font-family: "FuturaRegular";
+    src: url("../fonts/FuturaRegular/FuturaRegular.html");
+    src: url("../fonts/FuturaRegular/FuturaRegulard41d.html?#iefix")format("embedded-opentype"),
+    url("../fonts/FuturaRegular/FuturaRegular-2.html") format("woff"),
+    url("../fonts/FuturaRegular/FuturaRegular-3.html") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "FuturaBold"; */
+@font-face {
+    font-family: "FuturaBold";
+    src: url("../fonts/FuturaBold/FuturaBold.html");
+    src: url("../fonts/FuturaBold/FuturaBoldd41d.html?#iefix")format("embedded-opentype"),
+    url("../fonts/FuturaBold/FuturaBold-2.html") format("woff"),
+    url("../fonts/FuturaBold/FuturaBold-3.html") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
